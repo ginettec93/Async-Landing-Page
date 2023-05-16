@@ -4,14 +4,21 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "predeploy": "npm run src",
     "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
-  "url": "git+https://github.com/ginettec93/Async-Landing-Page/src"
+    "url": "git+https://github.com/ginettec93/Async-Landing-Page/src"
   },
-  "keywords": ["html", "javascript", "deploy", "framework"],
+  "keywords": [
+    "html",
+    "javascript",
+    "deploy",
+    "framework"
+  ],
   "author": "Ginette Carrizo <ginettecarrizo@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
