@@ -6,7 +6,11 @@
   "scripts": {
     "deploy": "gh-pages -d src"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+  "url": "git+https://github.com/ginettec93/Async-Landing-Page"
+  },
+  "keywords": ["html", "javascript", "deploy", "framework"],
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
