@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "predeploy": "npm run src",
     "deploy": "gh-pages -d src"
   },
   "repository": {
