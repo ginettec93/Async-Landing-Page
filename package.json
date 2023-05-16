@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-  "url": "git+https://github.com/ginettec93/Async-Landing-Page"
+  "url": "git+https://github.com/ginettec93/Async-Landing-Page/src"
   },
   "keywords": ["html", "javascript", "deploy", "framework"],
   "author": "Ginette Carrizo <ginettecarrizo@gmail.com>",
